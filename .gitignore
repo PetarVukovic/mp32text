@@ -1,0 +1,15 @@
+# Ignore environment files
+.env
+
+# Node dependencies
+node_modules/
+
+# Python dependencies
+__pycache__/
+*.py[cod]
+
+# Other common ignores
+.DS_Store
+.idea/
+.vscode/
+dist/
